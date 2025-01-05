@@ -1,2 +1,70 @@
-# Oficina_de_bike_Dengo
- Sistema desenvolvido em java para atender as necessidades da Oficina de Bike do Dengo
+# Oficina de Bike
+
+# Roteiro para Criação de Site de Loja de Bikes
+
+- 1. Planejamento Inicial (Prazo - 08/01/2025 à 12/01/2025)
+    - Definir público-alvo e posicionamento da marca
+    - Pesquisar concorrentes e análise de mercado
+    - Estabelecer orçamento inicial
+    - Definir categorias principais de produtos e serviços
+- [ ]  Concluído
+- 2. Estrutura do Site (Prazo - 12/01/2025 à 13/01/2025)
+    - Homepage com destaques e promoções
+    - Catálogo de produtos dividido em categorias:
+        - Bikes completas
+        - Peças e componentes
+        - Vestuário
+        - Acessórios
+    - Área de serviços de manutenção
+    - Blog com conteúdo sobre ciclismo
+    - Página institucional (Sobre nós, contato)
+- [ ]  Concluído
+- 3. Funcionalidades Essenciais  (Prazo - 14/01/2025 à 30/01/2025)
+    - Sistema de cadastro e login de usuários - 13/01/2025
+    - Carrinho de compras - 16/01/2025
+    - Sistema de pagamento online - 18/01/2025
+    - Agendamento de serviços - 20/01/2025
+    - Rastreamento de pedidos -
+    - Sistema de busca avançada -
+    - Filtros de produtos por categoria, preço e marca - 25/01/2025
+- [ ]  Concluído
+- 4. Desenvolvimento Técnico (Prazo - 01/02/2025 à 20/02/2025)
+    - Escolher plataforma de e-commerce (ex: WooCommerce, Magento)
+    - Desenvolver layout responsivo
+    - Implementar SSL para segurança
+    - Integrar métodos de pagamento
+    - Configurar sistema de envio e cálculo de frete
+- [ ]  Concluído
+- 5. Gestão de Produtos (Prazo - 21/02/2025 à 10/03/2025)
+    - Criar sistema de cadastro de produtos
+    - Fotografar produtos
+    - Elaborar descrições detalhadas
+    - Definir política de preços
+    - Configurar controle de estoque
+- [ ]  Concluído
+- 6. Sistema de Serviços (Prazo - 11/03/2025 à 20/03/2025)
+    - Criar formulário de agendamento de serviços
+    - Desenvolver sistema de orçamentos online
+    - Implementar histórico de manutenções por cliente
+    - Sistema de avaliação de serviços
+- [ ]  Concluído
+- 7. Marketing Digital (Prazo - 21/03/2025 à 05/04/2025)
+    - Otimização para SEO
+    - Integração com redes sociais
+    - Sistema de newsletter
+    - Programa de fidelidade
+    - Sistema de cupons e descontos
+- [ ]  Concluído
+- 8. Pós-lançamento (Prazo - 06/04/2025 à 11/05/2025)
+    - Monitoramento de métricas
+    - Suporte ao cliente
+    - Manutenção regular do site
+    - Atualizações de segurança
+    - Análise de feedback dos usuários
+- [ ]  Concluído
+- 9. Aspectos Legais (Prazo - 06/04/2025 à 20/05/2025)
+    - Política de privacidade
+    - Termos de uso
+    - Política de trocas e devoluções
+    - Adequação à LGPD
+- [ ]  Concluído
